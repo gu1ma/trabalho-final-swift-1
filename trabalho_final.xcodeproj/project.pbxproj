@@ -16,6 +16,18 @@
 		55489F1022F649180069047B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55489F0E22F649180069047B /* LaunchScreen.storyboard */; };
 		55489F1B22F649180069047B /* trabalho_finalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55489F1A22F649180069047B /* trabalho_finalTests.swift */; };
 		55489F2622F649180069047B /* trabalho_finalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55489F2522F649180069047B /* trabalho_finalUITests.swift */; };
+		556B9B7622FFC0D90096A810 /* FilmesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 556B9B7522FFC0D90096A810 /* FilmesTableViewController.swift */; };
+		556B9B7822FFC23F0096A810 /* Filme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 556B9B7722FFC23F0096A810 /* Filme.swift */; };
+		556B9B7A22FFC90A0096A810 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 556B9B7922FFC9090096A810 /* logo.png */; };
+		556B9B7C22FFC9270096A810 /* user-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 556B9B7B22FFC9270096A810 /* user-logo.png */; };
+		556B9B7E22FFC96F0096A810 /* capita_marvel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 556B9B7D22FFC96F0096A810 /* capita_marvel.jpg */; };
+		556B9B8022FFC97A0096A810 /* homem_formiga.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 556B9B7F22FFC97A0096A810 /* homem_formiga.jpg */; };
+		556B9B8222FFC9880096A810 /* poster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 556B9B8122FFC9880096A810 /* poster.jpg */; };
+		556B9B8422FFCA7F0096A810 /* vingadores.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 556B9B8322FFCA7F0096A810 /* vingadores.jpg */; };
+		556B9B86230054600096A810 /* FilmeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 556B9B85230054600096A810 /* FilmeCell.swift */; };
+		556B9B8823006A5B0096A810 /* FilmeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 556B9B8723006A5B0096A810 /* FilmeDetail.swift */; };
+		556B9B8A2300A7320096A810 /* FilmeCell2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 556B9B892300A7320096A810 /* FilmeCell2.swift */; };
+		556B9B8C2300A7FE0096A810 /* ViewFilmeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 556B9B8B2300A7FE0096A810 /* ViewFilmeCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +63,18 @@
 		55489F2122F649180069047B /* trabalho_finalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = trabalho_finalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		55489F2522F649180069047B /* trabalho_finalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trabalho_finalUITests.swift; sourceTree = "<group>"; };
 		55489F2722F649180069047B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		556B9B7522FFC0D90096A810 /* FilmesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmesTableViewController.swift; sourceTree = "<group>"; };
+		556B9B7722FFC23F0096A810 /* Filme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filme.swift; sourceTree = "<group>"; };
+		556B9B7922FFC9090096A810 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../imgs/logo.png; sourceTree = "<group>"; };
+		556B9B7B22FFC9270096A810 /* user-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "user-logo.png"; path = "../../imgs/user-logo.png"; sourceTree = "<group>"; };
+		556B9B7D22FFC96F0096A810 /* capita_marvel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = capita_marvel.jpg; path = ../../imgs/capita_marvel.jpg; sourceTree = "<group>"; };
+		556B9B7F22FFC97A0096A810 /* homem_formiga.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = homem_formiga.jpg; path = ../../imgs/homem_formiga.jpg; sourceTree = "<group>"; };
+		556B9B8122FFC9880096A810 /* poster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = poster.jpg; path = ../../imgs/poster.jpg; sourceTree = "<group>"; };
+		556B9B8322FFCA7F0096A810 /* vingadores.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = vingadores.jpg; path = ../../imgs/vingadores.jpg; sourceTree = "<group>"; };
+		556B9B85230054600096A810 /* FilmeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmeCell.swift; sourceTree = "<group>"; };
+		556B9B8723006A5B0096A810 /* FilmeDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmeDetail.swift; sourceTree = "<group>"; };
+		556B9B892300A7320096A810 /* FilmeCell2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmeCell2.swift; sourceTree = "<group>"; };
+		556B9B8B2300A7FE0096A810 /* ViewFilmeCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewFilmeCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,9 +130,21 @@
 				551E679922F776F30018E597 /* RegisterViewController.swift */,
 				55489F0922F649160069047B /* Main.storyboard */,
 				55489F0C22F649180069047B /* Assets.xcassets */,
+				556B9B8322FFCA7F0096A810 /* vingadores.jpg */,
+				556B9B8122FFC9880096A810 /* poster.jpg */,
+				556B9B7F22FFC97A0096A810 /* homem_formiga.jpg */,
+				556B9B7D22FFC96F0096A810 /* capita_marvel.jpg */,
+				556B9B7B22FFC9270096A810 /* user-logo.png */,
+				556B9B7922FFC9090096A810 /* logo.png */,
 				55489F0E22F649180069047B /* LaunchScreen.storyboard */,
 				55489F1122F649180069047B /* Info.plist */,
 				551E679B22F797FB0018E597 /* MainTabController.swift */,
+				556B9B7522FFC0D90096A810 /* FilmesTableViewController.swift */,
+				556B9B7722FFC23F0096A810 /* Filme.swift */,
+				556B9B85230054600096A810 /* FilmeCell.swift */,
+				556B9B8723006A5B0096A810 /* FilmeDetail.swift */,
+				556B9B892300A7320096A810 /* FilmeCell2.swift */,
+				556B9B8B2300A7FE0096A810 /* ViewFilmeCell.xib */,
 			);
 			path = trabalho_final;
 			sourceTree = "<group>";
@@ -235,9 +271,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				556B9B7E22FFC96F0096A810 /* capita_marvel.jpg in Resources */,
+				556B9B7C22FFC9270096A810 /* user-logo.png in Resources */,
+				556B9B8C2300A7FE0096A810 /* ViewFilmeCell.xib in Resources */,
+				556B9B7A22FFC90A0096A810 /* logo.png in Resources */,
 				55489F1022F649180069047B /* LaunchScreen.storyboard in Resources */,
+				556B9B8022FFC97A0096A810 /* homem_formiga.jpg in Resources */,
 				55489F0D22F649180069047B /* Assets.xcassets in Resources */,
+				556B9B8222FFC9880096A810 /* poster.jpg in Resources */,
 				55489F0B22F649160069047B /* Main.storyboard in Resources */,
+				556B9B8422FFCA7F0096A810 /* vingadores.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,8 +305,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				556B9B8A2300A7320096A810 /* FilmeCell2.swift in Sources */,
 				551E679A22F776F30018E597 /* RegisterViewController.swift in Sources */,
+				556B9B7822FFC23F0096A810 /* Filme.swift in Sources */,
 				55489F0822F649160069047B /* ViewController.swift in Sources */,
+				556B9B7622FFC0D90096A810 /* FilmesTableViewController.swift in Sources */,
+				556B9B8823006A5B0096A810 /* FilmeDetail.swift in Sources */,
+				556B9B86230054600096A810 /* FilmeCell.swift in Sources */,
 				551E679C22F797FB0018E597 /* MainTabController.swift in Sources */,
 				55489F0622F649160069047B /* AppDelegate.swift in Sources */,
 			);
@@ -441,6 +489,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 94WQCJWV5P;
 				INFOPLIST_FILE = trabalho_final/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -458,6 +507,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 94WQCJWV5P;
 				INFOPLIST_FILE = trabalho_final/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
